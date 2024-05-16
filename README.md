@@ -119,9 +119,9 @@ Feel free to copy and paste this Markdown code into your README.md file. You can
 
 ## Contact
 
-If you have any feedback, questions, or suggestions regarding the Social-Networking application, feel free to reach out to me:
+If you have any feedback, questions, or suggestions regarding the Text Editor application, feel free to reach out to me:
 
 - **Email**: Hemalathaprakasam219@gmail.com
 
-I welcome any feedback or inquiries and am happy to assist with any queries related to the Social-Networking project. Your input is valuable in improving the application and making it more user-friendly.
+I welcome any feedback or inquiries and am happy to assist with any queries related to the Text Editor project. Your input is valuable in improving the application and making it more user-friendly.
 
